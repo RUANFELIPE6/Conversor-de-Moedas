@@ -1,4 +1,4 @@
-# 💱 Conversor de Moedas com Gráfico de Câmbio
+# 💱 Conversor de Moedas 
 
 Projeto visual de um **Conversor de Moedas** moderno e interativo, com suporte a múltiplas moedas e visualização gráfica da variação da taxa de câmbio.
 
